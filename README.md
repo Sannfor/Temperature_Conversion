@@ -15,7 +15,7 @@ Aplikasi Android sederhana untuk menghitung konversi suhu secara instan dan flek
 * **Min SDK:** API 24 (Android 7.0)
 
 ## 📸 Screenshots
-<img src="https://via.placeholder.com/300x600?text=Screenshot+Aplikasi" width="300" />
+<img width="1080" height="2400" alt="Screenshot_AplikasiKonversiSuhu_HasilReset" src="https://github.com/user-attachments/assets/e956ada2-69bb-41e2-b420-36191074c099" />
 
 ## 👤 Pembuat
 * **Nama:** [Ahmadi Hasan]
