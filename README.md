@@ -1,6 +1,6 @@
 # 🌡️ Aplikasi Super Konversi Suhu
 
-Aplikasi Android sederhana untuk menghitung konversi suhu secara instan dan fleksibel. Dibuat sebagai tugas mata kuliah Pemrograman Mobile.
+Aplikasi Android sederhana untuk menghitung konversi suhu secara instan dan fleksibel. Dibuat sebagai tugas mata kuliah Pemrograman Berbasis Objek.
 
 ## 📱 Fitur Unggulan
 * **Konversi Segala Arah:** Bisa input dari Celsius, Fahrenheit, Kelvin, atau Reamur.
